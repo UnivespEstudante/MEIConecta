@@ -1,0 +1,3 @@
+Projeto Integrador Grupo2
+Software acadêmico desenvolvido com framework web, banco de dados e versionamento no GitHub
+Proposta de Agenda Inteligente a ser desenvolvida
